@@ -15,7 +15,7 @@ import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 import java.util.*;
 
-public class Snake extends Application {
+public class Main extends Application {
 
     Map map;
     Snake mp;
